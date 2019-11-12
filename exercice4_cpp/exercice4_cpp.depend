@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1572645684 source:h:\tp_language_c\exercice4_cpp\main.cpp
+	<iostream>
+	<conio.h>
+	"fonctions.cpp"
+	"fonction_h.h"
+
+1572476239 source:h:\tp_language_c\exercice4_cpp\structures.cpp
+	<iostream>
+
+1572645246 source:h:\tp_language_c\exercice4_cpp\fonctions.cpp
+	<iostream>
+	<math.h>
+	"fonction_h.h"
+
+1572476239 h:\tp_language_c\exercice4_cpp\structures.cpp
+	<iostream>
+
+1572645246 h:\tp_language_c\exercice4_cpp\fonctions.cpp
+	<iostream>
+	<math.h>
+	"fonction_h.h"
+
+1572623335 h:\tp_language_c\exercice4_cpp\fonction_h.h
+
+1572550040 h:\tp_language_c\exercice4_cpp\structures.h
+

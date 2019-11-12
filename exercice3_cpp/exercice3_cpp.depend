@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1572470861 source:h:\tp_language_c\exercice3_cpp\main.cpp
+	<iostream>
+	<conio.h>
+	"fonctions.h"
+	"fonctions.cpp"
+
+1572470688 h:\tp_language_c\exercice3_cpp\fonctions.h
+
+1572471408 h:\tp_language_c\exercice3_cpp\fonctions.cpp
+	<iostream>
+	<conio.h>
+	"fonctions.h"
+
